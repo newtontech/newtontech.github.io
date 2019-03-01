@@ -1,3 +1,3 @@
-# newtontech.github.io
+# newtontech
 个人主页
-this is a personal website
+this is my homepage
