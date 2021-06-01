@@ -7,3 +7,7 @@ h2 {
 h3 {
   color: #D9230F;
 }
+.marginauto {
+  margin: 10px auto 20px;
+  display: block;
+}
